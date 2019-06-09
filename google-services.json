@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "782277739958",
+    "firebase_url": "https://my-tv-197807.firebaseio.com",
+    "project_id": "my-tv-197807",
+    "storage_bucket": "my-tv-197807.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782277739958:android:e33dc61465a4e821",
+        "android_client_info": {
+          "package_name": "com.mcc.tv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "782277739958-31dastvu6u5hrmtivl6pplsf2ktkts62.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0qYkUL7W4E4lC2dPCRDPaPr_h4IHPyjo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
